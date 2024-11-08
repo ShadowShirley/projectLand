@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes ToUP {
+    0% {
+        opacity: 0;
+        transform: translateY(7rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0rem);
+    }
+}
+
+@keyframes note {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes svgMove {
+    0% {
+        opacity: 0;
+        transform: translateX(10rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0rem);
+    }
+}
+
+@keyframes svgMoveRightBot {
+    0% {
+        opacity: 0;
+        transform: translate(-5rem, -5rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0rem);
+    }
+}
+
+@keyframes svgMoveRightUp {
+    0% {
+        opacity: 0;
+        transform: translate(-5rem, 5rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0rem);
+    }
+}
+
+@keyframes svgMoveLeftUp {
+    0% {
+        opacity: 0;
+        transform: translate(6rem, 6rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0rem);
+    }
+}
+
+@keyframes svgOpacity {
+    0% {
+        transform: translateY(10rem);
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.title_animated__first {
+    animation: ToUP .6s ease-out .4s;
+    animation-fill-mode: backwards;
+}
+
+.title_animated__secondary {
+    animation: ToUP .6s ease-out .8s;
+    animation-fill-mode: backwards;
+}
+
+.main__button_animation {
+    animation: ToUP .6s ease-out 1.2s;
+    animation-fill-mode: backwards;
+}
+
+.main__button_style {
+    background: linear-gradient(101.64deg, #7A5AF8 27.74%, #9E77ED 105.35%);
+}

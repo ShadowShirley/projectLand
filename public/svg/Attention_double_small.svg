@@ -1,0 +1,48 @@
+<svg width="78" height="76" viewBox="0 0 78 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_7_17257)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M48.7257 19.0388L49.1922 20.2217L49.5065 21.4854L54.0379 63.5756L54.1892 64.9533L54.15 66.2462L53.9357 67.4396L53.5611 68.5174L53.041 69.463L52.3904 70.2587L51.6243 70.8865L50.7584 71.327L49.8088 71.5609L48.7923 71.5683L47.726 71.3292L46.6282 70.8236L10.522 50.2376L9.2706 49.3598L8.19764 48.3085L7.31139 47.1187L6.6191 45.8262L6.12698 44.4672L5.84029 43.0779L5.76331 41.6946L5.89939 40.353L6.25104 39.088L6.82 37.9341L7.60729 36.9244L8.61329 36.091L40.0961 14.7739L40.9781 14.3403L41.9123 14.1448L42.8767 14.1686L43.8496 14.3937L44.8104 14.8025L45.7385 15.3783L46.6138 16.1048L47.4166 16.9667L48.1271 17.9494L48.7257 19.0388Z" fill="url(#paint0_linear_7_17257)" fill-opacity="0.35"/>
+<g filter="url(#filter1_b_7_17257)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.31128 36.6484L8.34297 35.7883L38.5349 15.6068L40.0536 14.767L41.5985 13.9126L43.1706 13.0433L44.7703 12.1587L46.3986 11.2583L15.8182 31.8325L14.7683 32.7184L13.9445 33.7891L13.3467 35.0108L12.9739 36.3483L12.8246 37.7656L12.8963 39.2257L13.1859 40.6907L13.6889 42.1226L14.4003 43.483L15.3138 44.7339L16.4221 45.8374L17.7167 46.7567L55.7029 69.1182L56.8401 69.6454L57.9462 69.8916L59.0022 69.8778L57.1808 70.279L55.3928 70.6728L53.6372 71.0596L51.9132 71.4393L50.2198 71.8123L49.1795 71.8325L48.0935 71.6039L46.9808 71.1063L10.0428 50.0333L8.79124 49.1683L7.72331 48.1257L6.84657 46.9406L6.16764 45.6488L5.69214 44.2865L5.42474 42.8902L5.36918 41.4961L5.52835 40.1401L5.90432 38.8573L6.49841 37.6822L7.31128 36.6484Z" fill="url(#paint1_linear_7_17257)" fill-opacity="0.6"/>
+</g>
+<g filter="url(#filter2_b_7_17257)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M55.3368 15.7099L55.8144 16.956L56.1333 18.2883L63.4425 61.4221L63.5914 62.8757L63.543 64.241L63.3133 65.5021L62.9178 66.6423L62.3719 67.6437L61.6914 68.4877L60.8919 69.155L59.9899 69.6253L59.0021 69.8779L57.9462 69.8917L56.84 69.6456L55.7028 69.1183L17.7166 46.7569L16.4219 45.8376L15.3137 44.734L14.4002 43.4832L13.6888 42.1227L13.1857 40.6908L12.8962 39.2258L12.8245 37.7658L12.9738 36.3485L13.3466 35.0109L13.9444 33.7893L14.7682 32.7185L15.8181 31.8327L46.3985 11.2584L47.3173 10.7954L48.2888 10.5834L49.2903 10.6029L50.2996 10.8347L51.2951 11.2606L52.2557 11.863L53.1606 12.6248L53.9894 13.53L54.7216 14.5633L55.3368 15.7099Z" fill="url(#paint2_linear_7_17257)" fill-opacity="0.2"/>
+<path d="M54.2956 14.827L54.8812 15.9184L55.3358 17.1043L55.6431 18.3883L62.9467 61.4894L63.0905 62.8924L63.0446 64.1871L62.8283 65.3747L62.4589 66.4393L61.9544 67.3649L61.3331 68.1355L60.6129 68.7366L59.81 69.1552L58.936 69.3787L57.9979 69.391L57.0013 69.1693L55.9353 68.675L17.9886 46.3368L16.7453 45.4539L15.6943 44.4074L14.826 43.2184L14.1486 41.923L13.6693 40.5588L13.3938 39.1647L13.3258 37.7798L13.4667 36.4425L13.8159 35.1895L14.3714 34.0543L15.1317 33.066L16.1198 32.2324L46.6516 11.6908L47.4857 11.2704L48.3379 11.0845L49.2288 11.1018L50.1441 11.312L51.0626 11.705L51.9605 12.268L52.8138 12.9864L53.5995 13.8446L54.2956 14.827Z" stroke="url(#paint3_linear_7_17257)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_7_17257" x="1.36914" y="6.5835" width="66.2222" height="69.249" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_7_17257"/>
+</filter>
+<filter id="filter1_b_7_17257" x="-24.6309" y="-18.7417" width="113.633" height="120.574" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="15"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_7_17257"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_7_17257" result="shape"/>
+</filter>
+<filter id="filter2_b_7_17257" x="-0.175537" y="-2.4165" width="76.7668" height="85.3081" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="6.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_7_17257"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_7_17257" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_7_17257" x1="1.36647" y1="59.1002" x2="60.8284" y2="17.8918" gradientUnits="userSpaceOnUse">
+<stop offset="0.268633" stop-color="#D7D1FF"/>
+<stop offset="0.763637" stop-color="#7F56D9" stop-opacity="0.39"/>
+</linearGradient>
+<linearGradient id="paint1_linear_7_17257" x1="1.07516" y1="5.1174" x2="32.4343" y2="84.7242" gradientUnits="userSpaceOnUse">
+<stop offset="0.325325" stop-color="white"/>
+<stop offset="0.51875" stop-color="#D7D1FF"/>
+<stop offset="0.976143" stop-color="#6559C0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_7_17257" x1="8.4609" y1="56.5743" x2="71.2905" y2="13.9227" gradientUnits="userSpaceOnUse">
+<stop offset="0.268633" stop-color="#F0E9FF"/>
+<stop offset="0.763637" stop-color="#8F61FA"/>
+</linearGradient>
+<linearGradient id="paint3_linear_7_17257" x1="11.283" y1="41.7514" x2="39.4904" y2="30.7045" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.27"/>
+<stop offset="0.688828" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
